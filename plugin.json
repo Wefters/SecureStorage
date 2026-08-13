@@ -1,0 +1,10 @@
+{
+  "name": "secure-storage",
+  "permissions": {
+    "android": [],
+    "ios": {}
+  },
+  "methods": ["set", "get", "remove"],
+  "hooks": [],
+  "events": []
+}
